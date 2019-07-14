@@ -1,0 +1,23 @@
+1562570974717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "disable-infobars" "-foreground" "-no-remote" "-profile" "/var/folders/lj/4xc47g7n2j36h5rng3f0_xwm0000gn/T/rust_mozprofile.wgnPVJUZqYSW"
+1562570975818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562570975819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562570975819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562570978906	Marionette	INFO	Listening on port 64491
+1562570978991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562570985564	Marionette	INFO	Stopped listening on port 64491
+1562571607561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "disable-infobars" "-foreground" "-no-remote" "-profile" "/var/folders/lj/4xc47g7n2j36h5rng3f0_xwm0000gn/T/rust_mozprofile.5NPc1N3gmsot"
+1562571608628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562571608628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562571608628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562571611402	Marionette	INFO	Listening on port 51020
+1562571611435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562571624900	Marionette	INFO	Stopped listening on port 51020
+1562571654355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "disable-infobars" "-foreground" "-no-remote" "-profile" "/var/folders/lj/4xc47g7n2j36h5rng3f0_xwm0000gn/T/rust_mozprofile.oZ703YXM8O0v"
+1562571655383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562571655384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562571655384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562571657878	Marionette	INFO	Listening on port 51349
+1562571657915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562571660460	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1562571666740	Marionette	INFO	Stopped listening on port 51349
